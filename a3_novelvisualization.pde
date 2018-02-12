@@ -10,8 +10,7 @@ void setup() {
  stroke(3);
 }
 void draw() {
-  fill(255);
-  rect(-10,-10,710,610);
+  background(255);
   color a =color(150, 164, 139);
   color b =color(156, 168, 184);
   color c =color(131,200,206); 
