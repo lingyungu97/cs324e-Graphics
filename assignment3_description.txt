@@ -1,4 +1,4 @@
-
+The first part is done by creating an object called Word that keeps track of how many times each unique word is used. This helps creating allwords, uniquewords, and of course wordfrequency text files. Each word object is initiated with the count one, and is stored in a list. I also sort the list after I have extracted all the words so that it is easier to deal with when creating the text files.
 
 
 I choose Roboto-Black as the font because I think this font looks nice. I use three colors including blue, green and teal because these colors are analogous colors and give a very pleasing feeling. I use font size of 20 because this size is large enough for people to see all the words easily and clearly while makes it possible to display a sufficient amount of words on the canvas.
